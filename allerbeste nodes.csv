@@ -1,16 +1,9 @@
 id,name,party,sector,country
 lk,Lars Klingbeil,SPD,Politik,Deutschland
-uvdl,Ursula von der Leyen,CDU,"Politik
-","Deutschland
-"
-nr,Norbert Röttgen,CDU,"Politik
-","Deutschland
-"
-sw,Sahra Wagenknecht,Die Linke,"Politik
-","Deutschland
-"
-cs,Constanze Stelzenmüller,,Justiz,"Deutschland
-"
+uvdl,Ursula von der Leyen,CDU,Politik,Deutschland
+nr,Norbert Röttgen,CDU,Politik,Deutschland
+sw,Sahra Wagenknecht,Die Linke,Politik,Deutschland
+cs,Constanze Stelzenmüller,,Justiz,Deutschland
 500,Folge 500,,,
 cl,Christian Lindner,FDP,Politik,Deutschland
 ks,Karl Schlögel,,Geschichte,Deutschland
@@ -34,5 +27,6 @@ SPD,SPD,Partei,Politik,Deutschland
 Die Linke,Die Linke,Partei,Politik,Deutschland
 FDP,FDP,Partei,Politik,Deutschland
 ​Die Grünen,​Die Grünen,Partei,Politik,Deutschland
+
 
 
